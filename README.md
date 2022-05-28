@@ -20,6 +20,31 @@ How many times does the beam hit the internal surface of the white cell before e
 
 ## Solution 
 
+output : <br />
+8 -6 <br />
+-9.96755 -0.21445 <br />
+-9.96755 -0.21445 <br />
+7.754234 6.248889 <br />
+7.754234 6.248889 <br />
+-7.04636 -7.06623 <br />
+-7.04636 -7.06623 <br />
+7.063139 7.078951 <br />
+7.063139 7.078951 <br />
+-7.06315 -7.07897 <br />
+-7.06315 -7.07897 <br />
+7.063153 7.078974 <br />
+7.063153 7.078974 <br />
+-7.06315 -7.07897 <br />
+-7.06315 -7.07897 <br />
+7.063153 7.078974 <br />
+7.063153 7.078974 <br />
+-7.06315 -7.07897 <br />
+-7.06315 -7.07897 <br />
+7.063153 7.078974 <br />
+
+The number of reflections exceeds the limit
+
+
 ![msedge_KTsbZCgubo](https://user-images.githubusercontent.com/63477635/170845416-26eeefbe-7b7e-4855-b3d4-49379d8f418c.png)
 
 I have uploaded a pdf containing all handwritten equations to reach the solution,
